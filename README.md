@@ -10,9 +10,14 @@ Identificar padrões e municípios com maior incidência de roubo de veículos n
 
 ---
 
-## 📊 Resultado
+## 📊 Resultado — Análise em Python
 
-![Gráfico de análise de criminalidade RJ](output.png)
+<img width="1151" height="613" alt="output" src="https://github.com/user-attachments/assets/59404e87-5857-48d6-a8cc-df4a2b28a8cf" />
+
+
+## 📊 Dashboard Power BI
+
+![Dashboard Power BI](dashboard_power_bi.png)
 
 ---
 
@@ -22,6 +27,7 @@ Identificar padrões e municípios com maior incidência de roubo de veículos n
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+- Power BI
 
 ---
 
@@ -29,8 +35,10 @@ Identificar padrões e municípios com maior incidência de roubo de veículos n
 
 ```
 Analise_criminalidade_rj/
-├── Projto_Analise_Dados/   # Notebook com a análise completa
-├── output.png              # Gráfico gerado pela análise
+├── Projto_Analise_Dados/        # Notebook com a análise completa
+├── saida.png                    # Gráfico gerado pela análise Python
+├── dashboard_power_bi.png       # Dashboard gerado no Power BI
+├── Analise-criminalidade-rj.pbix # Arquivo Power BI (download disponível)
 └── README.md
 ```
 
